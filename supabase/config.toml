@@ -1,0 +1,25 @@
+project_id = "mndxzewzaxfhdgzhpghw"
+
+[functions.analyze-medical-report]
+verify_jwt = false
+
+[functions.symptom-checker]
+verify_jwt = false
+
+[functions.find-doctors-labs]
+verify_jwt = false
+
+[functions.predict-disease-risk]
+verify_jwt = false
+
+[functions.plan-nutrition]
+verify_jwt = false
+
+[functions.digital-first-aid]
+verify_jwt = false
+
+[functions.smart-notifications]
+verify_jwt = false
+
+[functions.health-chatbot]
+verify_jwt = false
