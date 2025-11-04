@@ -11,7 +11,7 @@ const Footer = () => {
               <div className="p-2 bg-gradient-hero rounded-lg shadow-medical text-white">
                 <Heart className="h-6 w-6 text-white" />
               </div>
-              <span className="text-xl font-bold">MediAI</span>
+              <span className="text-xl font-bold">Health Nexus</span>
             </div>
             <p className="text-white/70 leading-relaxed">
               Your complete healthcare companion, powered by AI. 
@@ -53,11 +53,11 @@ const Footer = () => {
             <div className="space-y-3 text-white/70">
               <div className="flex items-center space-x-2">
                 <Mail className="h-4 w-4" />
-                <span className="text-sm">contact@mediai.com</span>
+                <span className="text-sm">contact@healthnexus.com</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Phone className="h-4 w-4" />
-                <span className="text-sm">+91 1800-MEDIAI</span>
+                <span className="text-sm">+91 1800-HealthNexus</span>
               </div>
               <div className="flex items-center space-x-2">
                 <MapPin className="h-4 w-4" />
@@ -70,7 +70,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-white/10 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
           <div className="text-white/60 text-sm">
-            © 2024 MediAI. All rights reserved. Built with ❤️ for better healthcare.
+            © 2024 Health Nexus. All rights reserved. Built with ❤️ for better healthcare.
           </div>
           <div className="flex space-x-6 text-sm text-white/60">
             <a href="#" className="hover:text-white transition-medical">Terms</a>
